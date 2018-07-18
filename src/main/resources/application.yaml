@@ -1,0 +1,3 @@
+customization:
+  greetingIplementation: com.mycustomer.java.CustomGreeting
+  componentScan: com.mycustomer.java, net.differentplace.java.demo
